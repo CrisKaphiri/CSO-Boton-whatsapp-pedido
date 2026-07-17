@@ -43,7 +43,15 @@ El botón solo aparece en la página real de "Pedido recibido" del pedido corres
 
 ## Capturas de pantalla
 
-> _Agrega aquí capturas del panel de administración y del botón renderizado en la página de pedido recibido._
+![Panel](screenshots/panel_plugin.png)
+
+---
+
+![Pagina](screenshots/pagina_orden_recibida.png)
+
+---
+
+![mensaje](screenshots/mensaje_wsp.png)
 
 ## Estructura del repositorio
 
