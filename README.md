@@ -4,7 +4,7 @@ Plugin de WordPress/WooCommerce que agrega un botón (shortcode) para que el cli
 
 ## Descripción
 
-Muchas tiendas que coordinan pagos por transferencia necesitan que el cliente avise por WhatsApp después de comprar, adjuntando el detalle del pedido. Este plugin arma ese mensaje automáticamente, **en el servidor**, usando el objeto `WC_Order` de WooCommerce — no dependiendo de JavaScript leyendo el HTML de la pantalla, que es un enfoque frágil (se rompe con cualquier cambio de tema o de plantilla).
+Muchas tiendas que coordinan pagos por transferencia necesitan que el cliente avise por WhatsApp después de comprar, adjuntando el detalle del pedido. Este plugin arma ese mensaje automáticamente, **en el servidor**, usando el objeto `WC_Order` de WooCommerce.
 
 El botón solo aparece en la página real de "Pedido recibido" del pedido correspondiente, verificando la *key* de seguridad de WooCommerce — en cualquier otra página, simplemente no se muestra nada.
 
